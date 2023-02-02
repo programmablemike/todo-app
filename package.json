@@ -1,8 +1,8 @@
 {
-  "name": "todo-ui",
-  "productName": "todo-ui",
+  "name": "todo-app",
+  "productName": "todo-app",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "An Electron example application for a very basic task manager",
   "main": ".webpack/main",
   "scripts": {
     "start": "electron-forge start",
