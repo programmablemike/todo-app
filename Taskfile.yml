@@ -8,3 +8,7 @@ tasks:
     desc: Run the app from source
     cmds:
     - npm start
+  package:
+    desc: Package the app as a binary for distribution
+    cmds:
+    - npm run make
